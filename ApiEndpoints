@@ -1,0 +1,2 @@
+/api/now/table/sys_user?sysparm_limit=9999&sysparm_offset=20000
+/api/now/v1/attachment?sysparm_limit=999
